@@ -1,14 +1,14 @@
 {
   "name": "@batsoft/swap-sdk",
   "license": "MIT",
-  "version": "1.2.2",
-  "description": "🛠 An SDK for building applications on top of Cmswap.",
+  "version": "6.0.5",
+  "description": "🛠 An SDK for building applications on top of Cmswap  Heco.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/YUANZHICHENG118/cmswap-sdk.git",
+  "repository": "https://github.com/cms/cmswap-sdk.git",
   "keywords": [
     "cmswap",
     "ethereum"
